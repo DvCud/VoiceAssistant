@@ -1,0 +1,10 @@
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\obj\Debug\VoiceAssistant v1.csproj.AssemblyReference.cache
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\obj\Debug\VoiceAssistant_v1.Form1.resources
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\obj\Debug\VoiceAssistant_v1.Properties.Resources.resources
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\obj\Debug\VoiceAssistant v1.csproj.GenerateResource.cache
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\obj\Debug\VoiceAssistant v1.csproj.CoreCompileInputs.cache
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\bin\Debug\VoiceAssistant v1.exe.config
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\bin\Debug\VoiceAssistant v1.exe
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\bin\Debug\VoiceAssistant v1.pdb
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\obj\Debug\VoiceAssistant v1.exe
+C:\Users\dev13\Desktop\C# Proects\VoiceAssistant v1\VoiceAssistant v1\obj\Debug\VoiceAssistant v1.pdb
